@@ -1,3 +1,6 @@
 [submodule "SubRepo"]
 	path = SubRepo
 	url = https://github.com/SilverBulletSoft/SubRepo.git
+[submodule "SubRepo2"]
+	path = SubRepo2
+	url = https://github.com/SilverBulletSoft/SubRepo2.git
